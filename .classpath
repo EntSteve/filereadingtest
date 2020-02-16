@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/tripl/eclipse-workspace/excelReading/Librarys/XML File Reader/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tripl/eclipse-workspace/excelReading/Librarys/XML File Reader/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tripl/eclipse-workspace/excelReading/Librarys/XML File Reader/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tripl/eclipse-workspace/excelReading/Librarys/XML File Reader/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tripl/eclipse-workspace/excelReading/Librarys/XML File Reader/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tripl/eclipse-workspace/excelReading/Librarys/XML File Reader/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
